@@ -64,4 +64,4 @@ a GitHub issue using the bug report template, then list it here.
 
 | Issue link | Linked test case | Short title | Severity | Priority |
 |---|---|---|---|---|
-| | TC-7 | Priority 6 accepted as valid | Medium | High |
+| https://github.com/nqsyrh/afiqahinsyirah22002020/issues/5#issue-5608972691| TC-7 | Priority 6 accepted as valid | Medium | High |
