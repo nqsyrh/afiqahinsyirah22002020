@@ -64,10 +64,10 @@ a GitHub issue using the bug report template, then list it here.
 
 | Issue link | Linked test case | Short title | Severity | Priority |
 |---|---|---|---|---|
-| https://github.com/nqsyrh/afiqahinsyirah22002020/issues/6#issue-5615026085| TC-1 |  Valid task is accepted correctly| Medium | High |
+| https://github.com/nqsyrh/afiqahinsyirah22002020/issues/6#issue-5615026085| TC-1 |  Valid task is accepted correctly| Major | High |
 | https://github.com/nqsyrh/afiqahinsyirah22002020/issues/7#issue-5615065652| TC-2 |  Missing priority is rejected| Minor | Low |
 | https://github.com/nqsyrh/afiqahinsyirah22002020/issues/8#issue-5615086109| TC-3 |  Non-integer priority is rejected| Minor | Low |
 | https://github.com/nqsyrh/afiqahinsyirah22002020/issues/9#issue-5615110968| TC-4 |  Priority 0 is rejected| Minor | Low |
 | https://github.com/nqsyrh/afiqahinsyirah22002020/issues/10#issue-5615139237| TC-5 |  Zero estimated hours is rejected| Minor | Low |
 | https://github.com/nqsyrh/afiqahinsyirah22002020/issues/11#issue-5615161848| TC-6 |   High priority task exceeding 20 hours is rejected| Minor | Low |
-| https://github.com/nqsyrh/afiqahinsyirah22002020/issues/5#issue-5608972691| TC-7 | Priority 6 accepted as valid | Medium | High |
+| https://github.com/nqsyrh/afiqahinsyirah22002020/issues/5#issue-5608972691| TC-7 | Priority 6 accepted as valid | Major | High |
