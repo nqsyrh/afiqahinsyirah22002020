@@ -63,5 +63,5 @@ Where Actual and Expected disagree, that is a candidate defect. File it as
 a GitHub issue using the bug report template, then list it here.
 
 | Issue link | Linked test case | Short title | Severity | Priority |
-|---| TC-7 | Priority 6 incorrectly accepted as valid | Medium | High |
-| | | | | |
+|---|---|---|---|---|
+| | TC-7 | Priority 6 accepted as valid | Medium | High |
